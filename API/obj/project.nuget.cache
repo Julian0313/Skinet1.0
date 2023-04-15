@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "POo8g7acToH0GyrOr8FaYU3qrVUnNuvNsvYHug28LD/3xN/WcD+CG+RqQ1YJ0MBZ22uYLI0TTRyyNjYuDSwdLA==",
+  "dgSpecHash": "6IFMrCK6JMifKDR9J+RTWJA1FbZm21ep+ekxCEx45ygXolUPnyy/9PTEtlZukU+DJJa9rqkka3diFBRoqczOKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\API.csproj",
   "expectedPackageFiles": [
@@ -37,7 +37,7 @@
     "C:\\Users\\David\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
-    "C:\\Users\\David\\.nuget\\packages\\stackexchange.redis\\2.6.80\\stackexchange.redis.2.6.80.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\stackexchange.redis\\2.6.104\\stackexchange.redis.2.6.104.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",

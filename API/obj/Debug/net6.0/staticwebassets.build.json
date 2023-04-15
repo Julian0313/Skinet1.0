@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LkrcqnfMmsbitZoOByLYbi2lVxTcnyEBkFCp19pGuek=",
+  "Hash": "t9vcVwt7LXbny1+cE25/Eku06bO2gIO9lW/0ogew33c=",
   "Source": "API",
   "BasePath": "_content/API",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\boot-ang1.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Acer1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-ang1.png",
+      "RelativePath": "images/products/Acer1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -31,15 +31,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Acer1.png"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\boot-ang2.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Acer2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-ang2.png",
+      "RelativePath": "images/products/Acer2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,15 +48,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-ang2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Acer2.png"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\boot-core1.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Acer3.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-core1.png",
+      "RelativePath": "images/products/Acer3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,15 +65,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-core1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Acer3.png"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\boot-core2.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Asus1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-core2.png",
+      "RelativePath": "images/products/Asus1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,15 +82,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-core2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Asus1.png"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\boot-redis1.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Asus2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/boot-redis1.png",
+      "RelativePath": "images/products/Asus2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,15 +99,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Asus2.png"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\glove-code1.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Asus3.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-code1.png",
+      "RelativePath": "images/products/Asus3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,15 +116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-code1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Asus3.png"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\glove-code2.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Dell1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-code2.png",
+      "RelativePath": "images/products/Dell1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,15 +133,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-code2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Dell1.jpg"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\glove-react1.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Dell2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-react1.png",
+      "RelativePath": "images/products/Dell2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -150,15 +150,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-react1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Dell2.jpg"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\glove-react2.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Dell3.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/glove-react2.png",
+      "RelativePath": "images/products/Dell3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -167,15 +167,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\glove-react2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Dell3.jpg"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\hat-core1.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Hp1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-core1.png",
+      "RelativePath": "images/products/Hp1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -184,15 +184,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-core1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Hp1.png"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\hat-react1.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Hp2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-react1.png",
+      "RelativePath": "images/products/Hp2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -201,15 +201,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Hp2.png"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\hat-react2.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Hp3.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/hat-react2.png",
+      "RelativePath": "images/products/Hp3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -218,15 +218,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\hat-react2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Hp3.png"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\sb-ang1.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Lenovo1.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ang1.png",
+      "RelativePath": "images/products/Lenovo1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -235,15 +235,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Lenovo1.png"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\sb-ang2.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Lenovo2.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ang2.png",
+      "RelativePath": "images/products/Lenovo2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -252,15 +252,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Lenovo2.png"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\sb-core1.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Lenovo3.png",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-core1.png",
+      "RelativePath": "images/products/Lenovo3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -269,15 +269,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-core1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Lenovo3.png"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\sb-core2.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Mac1.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-core2.png",
+      "RelativePath": "images/products/Mac1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -286,15 +286,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-core2.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Mac1.jpg"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\sb-react1.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Mac2.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-react1.png",
+      "RelativePath": "images/products/Mac2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -303,15 +303,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-react1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Mac2.jpg"
     },
     {
-      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\sb-ts1.png",
+      "Identity": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Mac3.jpg",
       "SourceId": "API",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\",
       "BasePath": "_content/API",
-      "RelativePath": "images/products/sb-ts1.png",
+      "RelativePath": "images/products/Mac3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -320,7 +320,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ts1.png"
+      "OriginalItemSpec": "wwwroot\\images\\products\\Mac3.jpg"
     }
   ]
 }

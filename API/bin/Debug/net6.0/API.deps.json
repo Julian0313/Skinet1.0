@@ -12,7 +12,7 @@
           "Infraestructura": "1.0.0",
           "Microsoft.EntityFrameworkCore.Design": "6.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.4",
-          "StackExchange.Redis": "2.6.80",
+          "StackExchange.Redis": "2.6.104",
           "Swashbuckle.AspNetCore": "6.2.3"
         },
         "runtime": {
@@ -340,14 +340,14 @@
           }
         }
       },
-      "StackExchange.Redis/2.6.80": {
+      "StackExchange.Redis/2.6.104": {
         "dependencies": {
           "Pipelines.Sockets.Unofficial": "2.2.2"
         },
         "runtime": {
           "lib/net5.0/StackExchange.Redis.dll": {
             "assemblyVersion": "2.0.0.0",
-            "fileVersion": "2.6.80.25426"
+            "fileVersion": "2.6.104.40210"
           }
         }
       },
@@ -534,7 +534,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.4",
           "Nucleo": "1.0.0",
-          "StackExchange.Redis": "2.6.80"
+          "StackExchange.Redis": "2.6.104"
         },
         "runtime": {
           "Infraestructura.dll": {}
@@ -784,12 +784,12 @@
       "path": "pipelines.sockets.unofficial/2.2.2",
       "hashPath": "pipelines.sockets.unofficial.2.2.2.nupkg.sha512"
     },
-    "StackExchange.Redis/2.6.80": {
+    "StackExchange.Redis/2.6.104": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-97wrhWUJ7QQfcTr+QWflB/emzHEZF7zQSRG2iRbqbaVsYvaImtrl3i4vm3/Sc+1DfQRVhPqfDUTl0XvTjabx3w==",
-      "path": "stackexchange.redis/2.6.80",
-      "hashPath": "stackexchange.redis.2.6.80.nupkg.sha512"
+      "sha512": "sha512-ccfmWZifNOk2c+co6urH9BeyUzmbqalyksVy6Ma28xNTLT3Nrng+5OX+EB5KrTsWHykoZTGzTM3L7ndySuxEuA==",
+      "path": "stackexchange.redis/2.6.104",
+      "hashPath": "stackexchange.redis.2.6.104.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.2.3": {
       "type": "package",

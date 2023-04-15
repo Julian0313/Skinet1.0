@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QZnrBrMB7BFpwMkaZJtqQZEr4Fu93TRwTBG+KTXpsGwG9WANMWEEgHUOkVDXQSJXyJv1e5QFhDjOKY492EU+GA==",
+  "dgSpecHash": "ODIKdDYmvBklVaEP12xnEOrISGvQQFGqo2qKE28Fd7uPAxQHQ09kyNCkzoqjbXq+BEH8e1MkutXAIVr2IbIOJg==",
   "success": true,
   "projectFilePath": "C:\\Users\\David\\Downloads\\skinet\\skinet\\Infraestructura\\Infraestructura.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,7 @@
     "C:\\Users\\David\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
-    "C:\\Users\\David\\.nuget\\packages\\stackexchange.redis\\2.6.80\\stackexchange.redis.2.6.80.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\stackexchange.redis\\2.6.104\\stackexchange.redis.2.6.104.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\David\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",

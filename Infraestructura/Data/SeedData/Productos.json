@@ -1,146 +1,146 @@
 [
   {
-    "nombre": "Angular Speedster Board 2000",
-    "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "precio": 200,
-    "imagen_url": "images/products/sb-ang1.png",
+    "nombre": "IdeaPad 1 15' 7ma Gen - Cloud Grey",
+    "descripcion": "Diviértete con la laptop Lenovo IdeaPad 1 7ma Gen (15.6', AMD) mientras ve programas en una amplia pantalla hasta FHD de hasta 15.6 con un marco delgado. Escucha un sonido intenso con los altavoces Dolby Audio™ estéreo. Disfruta de videollamadas nítidas en tu cámara web HD que ofrece un obturador de privacidad que bloquea a los curiosos involuntarios. Y con una batería con larga duración y de carga rápida, podrás trabajar desde cualquier lugar.",
+    "precio": 1999900,
+    "imagen_url": "images/products/Lenovo1.png",
     "tipo_productoid": 1,
     "marca_producto_id ": 1
   },
   {
-    "nombre": "Green Angular Board 3000",
-    "descripcion": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "precio": 150,
-    "imagen_url": "images/products/sb-ang2.png",
+    "nombre": "IdeaPad 3 6ta Gen (15.6', AMD)",
+    "descripcion": "Dicen que la vida está llena de restricciones. Que no se puede tener un gran rendimiento y una batería que dure mucho tiempo en la misma computadora portátil. Que una laptop enfocada a un gran rendimiento debe ser grande y pesada. Bueno, resulta que la laptop IdeaPad 3 de 6ta generación (15.6', AMD) demuestra que se equivocan. Ya puedes disfrutar de un rendimiento para increíble en un dispositivo delgado y liviano con una larga duración de batería gracias a los procesadores hasta AMD Ryzen™ 7. No vuelvas a aceptar restricciones en tu portátil.", 
+    "precio": 3249900,
+    "imagen_url": "images/products/Lenovo2.png",
     "tipo_productoid": 1,
     "marca_producto_id ": 1
   },
   {
-    "nombre": "Core Board Speed Rush 3",
-    "descripcion": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "precio": 180,
-    "imagen_url": "images/products/sb-core1.png",
+    "nombre": "Legion 5 7ma Gen (15', AMD)",
+    "descripcion": "Las características de cada producto pueden variar según el país de adquisición del mismo, por lo que la siguiente descripción no debe ser interpretada como un compromiso contractual. Te invitamos a revisar las características específicas para cada producto antes de realizar la compra online en la sección 'Ver Modelos' de esta misma página, o con un asesor de ventas si es en una tienda física.",
+    "precio": 7799900,
+    "imagen_url": "images/products/Lenovo3.png",
+    "tipo_productoid": 1,
+    "marca_producto_id ": 1
+  },
+  {
+    "nombre": "Vostro Notebook 15 3515 AMD Ryzen 5 8GB RAM 256GB SSD",
+    "descripcion": "Almacenamiento SSD CL35 M.2 de 256 3 celdas,Procesador AMD Ryzen 5 3450U,Sistema operativo Windows 11 Home,Gráficos AMD Radeon Vega 8, 1 año de servicio de hardware con OnSite.",
+    "precio": 10499000,
+    "imagen_url": "images/products/Dell1.jpg",
     "tipo_productoid": 1,
     "marca_producto_id ": 2
   },
   {
-    "nombre": "Net Core Super Board",
-    "descripcion": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "precio": 300,
-    "imagen_url": "images/products/sb-core2.png",
+    "nombre": "Inspiron3511 Intel Core I5 Gen 10th 8GB RAM 256GB SSD",
+    "descripcion": "Windows 11 Home, Gráficos Intel Iris XE,GB RAM,256GB SSD,Procesador Intel Core i5-1035G1,Pantalla 156' Full HD,Ligra y Delgada,Ideal para Escuela o Trabajo",
+    "precio": 11550600,
+    "imagen_url": "images/products/Dell2.jpg",
     "tipo_productoid": 1,
     "marca_producto_id ": 2
   },
   {
-    "nombre": "React Board Super Whizzy Fast",
-    "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "precio": 250,
-    "imagen_url": "images/products/sb-react1.png",
+    "nombre": "Alienware M15 R7 Intel Core i7 16GB RAM 512GB SSD",
+    "descripcion": "Incluye en tu carrito: computadora + Microsoft 365 Personal de 3 meses Encuéntralo el número: 00019638814471 en el buscador Antes de pagar añade cupón M365INCLUIDO y goza de Word, Excel, 1 TB en la nube y mucho más Redime hoy No dudes en vivir al máximo la experiencia del juego, crea tu ecosistema y diviértete por horas con este equipo y su excepcional potencia Navega dentro de tú tienda en línea para encontrar más variedad de equipos y accesorios",
+    "precio": 245000000,
+    "imagen_url": "images/products/Dell3.jpg",
+    "tipo_productoid": 1,
+    "marca_producto_id ": 2
+  },
+  {
+    "nombre": "MacBook Air de 13 pulgadas",
+    "descripcion": "Chip M2 de Apple con CPU de ocho núcleos y GPU de dieznúcleos",
+    "precio": 9220600,
+    "imagen_url": "images/products/Mac1.jpg",
+    "tipo_productoid": 1,
+    "marca_producto_id ": 3
+  },
+  {
+    "nombre": "iMac con pantalla Retina 4,5K de 24 pulgadas",
+    "descripcion": "Chip M1 de Apple con CPU de ocho núcleos y GPU de ocho núcleos",
+    "precio": 9595622,
+    "imagen_url": "images/products/Mac2.jpg",
+    "tipo_productoid": 2,
+    "marca_producto_id ": 3
+  },
+  {
+    "nombre": "MacBook Pro de 13 pulgadas",
+    "descripcion": "Chip M2 de Apple con CPU de ocho núcleos y GPU de dieznúcleos",
+    "precio": 8099000,
+    "imagen_url": "images/products/Mac3.jpg",
+    "tipo_productoid": 1,
+    "marca_producto_id ": 3
+  },
+  {
+    "nombre": "Aspire XC Desktop - XC-1660G-UW94 & 23.8' Acer Monitor",
+    "descripcion": "Windows 11 Home,Intel® Core™ i3-10105 processor Quad-core 3.70 GHz,23.8' Full HD (1920 x 1080) 16:9,Intel® UHD Graphics 630 shared memory,8 GB, DDR4 SDRAM,256 GB SSD",
+    "precio": 5600250,
+    "imagen_url": "images/products/Acer1.png",
+    "tipo_productoid": 2,
+    "marca_producto_id ": 4
+  },
+  {
+    "nombre": "Aspire 1 Laptop - A115-32-C7ZW",
+    "descripcion": "Windows 11 Home in S Mode,Intel® Celeron® N4500 processor Dual-core 1.10 GHz,Intel® UHD Graphics shared memory,15.6' Full HD (1920 x 1080) 16:94 GB, DDR4 SDRAM,64 GB Flash Memory,,Includes one year of Microsoft 365",
+    "precio": 5600250,
+    "imagen_url": "images/products/Acer2.png",
     "tipo_productoid": 1,
     "marca_producto_id ": 4
   },
   {
-    "nombre": "Typescript Entry Board",
-    "descripcion": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "precio": 120,
-    "imagen_url": "images/products/sb-ts1.png",
+    "nombre": "Acer Chromebook 315 - CB315-4H-C2E4",
+    "descripcion": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "precio": 3400550,
+    "imagen_url": "images/products/Acer3.png",
+    "tipo_productoid": 1,
+    "marca_producto_id ": 4
+  },
+  {
+    "nombre": "ASUS Vivo AIO 22 V222",
+    "descripcion": "Para experiencias multimedia increíblemente inmersivas, Vivo AiO V222 tiene un sistema de audio potente. Los dos altavoces estéreo integrados de alta calidad son capaces de ofrecer 6W de sonido puro y definido, además cuenta con el avanzado diseño de Reflejo de bajos - Un diseño comúnmente disponible solo para sistemas de altavoces Hi-Fi - para ofrecer bajos poderosos y claros, de rango completo que debe ser oído para creerlo.",
+    "precio": 25000000,
+    "imagen_url": "images/products/Asus1.png",
+    "tipo_productoid": 2,
+    "marca_producto_id ": 5
+  },
+  {
+    "nombre": "Zen AiO 24 M5401",
+    "descripcion": "ASUS Zen AiO 24 es un computador hermoso, funcional y potente adaptado totalmente a todo tipo de tus necesidades diarias. Gracias a su memoria de estado sólido y su procesador de última generación, te brinda el más alto rendimiento junto con una estética elegante, lo que la hace perfecta para aquellas personas que aprecian un diseño fino. La elegante apariencia se acentúa con un soporte de metal adecuado para maximizar tu espacio, junto con altavoces frontales potentes certificados con Harman Kardon. Su pantalla impecable Nanoedge tiene 23,8 pulgadas con tecnología y una relación cuerpo pantalla del 93%, ofreciéndote una visualización magnífica y una interacción única para llevar al máximo todas tus expectativas de este hermoso todo en uno.",
+    "precio": 5189299,
+    "imagen_url": "images/products/Asus2.png",
+    "tipo_productoid": 2,
+    "marca_producto_id ": 5
+  },
+  {
+    "nombre": "Zenbook Pro 14 Duo OLED (UX8402)",
+    "descripcion": "Diagnóstico del sistema Carga de batería saludable Perfil de ventilador Splendid Tru2Life Bloqueo de tecla de función    WiFi SmartConnect    Link to MyASUS    TaskFirst    Live update    ASUS OLED Care    AI Noise Canceling    AdaptiveLock",
+    "precio": 8019999,
+    "imagen_url": "images/products/Asus3.png",
     "tipo_productoid": 1,
     "marca_producto_id ": 5
   },
   {
-    "nombre": "Core Blue Hat",
-    "descripcion": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "precio": 10,
-    "imagen_url": "images/products/hat-core1.png",
+    "nombre": "Todo en Uno HP 22-df0027la",
+    "descripcion": "Incluido 1 año de garantía limitada de hardware con soporte técnico telefónico gratuito. 90 días de soporte técnico limitado para software (a partir de la fecha de compra).",
+    "precio": 2500150,
+    "imagen_url": "images/products/Hp1.png",
     "tipo_productoid": 2,
-    "marca_producto_id ": 2
-  },
-  {
-    "nombre": "Green React Woolen Hat",
-    "descripcion": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "precio": 8,
-    "imagen_url": "images/products/hat-react1.png",
-    "tipo_productoid": 2,
-    "marca_producto_id ": 4
-  },
-  {
-    "nombre": "Purple React Woolen Hat",
-    "descripcion": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "precio": 15,
-    "imagen_url": "images/products/hat-react2.png",
-    "tipo_productoid": 2,
-    "marca_producto_id ": 4
-  },
-  {
-    "nombre": "Blue Code Gloves",
-    "descripcion": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "precio": 18,
-    "imagen_url": "images/products/glove-code1.png",
-    "tipo_productoid": 4,
-    "marca_producto_id ": 3
-  },
-  {
-    "nombre": "Green Code Gloves",
-    "descripcion": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "precio": 15,
-    "imagen_url": "images/products/glove-code2.png",
-    "tipo_productoid": 4,
-    "marca_producto_id ": 3
-  },
-  {
-    "nombre": "Purple React Gloves",
-    "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
-    "precio": 16,
-    "imagen_url": "images/products/glove-react1.png",
-    "tipo_productoid": 4,
-    "marca_producto_id ": 4
-  },
-  {
-    "nombre": "Green React Gloves",
-    "descripcion": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "precio": 14,
-    "imagen_url": "images/products/glove-react2.png",
-    "tipo_productoid": 4,
-    "marca_producto_id ": 4
-  },
-  {
-    "nombre": "Redis Red Boots",
-    "descripcion": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "precio": 250,
-    "imagen_url": "images/products/boot-redis1.png",
-    "tipo_productoid": 3,
     "marca_producto_id ": 6
   },
   {
-    "nombre": "Core Red Boots",
-    "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "precio": 189.99,
-    "imagen_url": "images/products/boot-core2.png",
-    "tipo_productoid": 3,
-    "marca_producto_id ": 2
+    "nombre": "Portátil HP 14-fq1004la",
+    "descripcion": "Incluido 1 año de garantía limitada de hardware con soporte técnico telefónico gratuito. 90 días de soporte técnico limitado para software (a partir de la fecha de compra).",
+    "precio": 1888880,
+    "imagen_url": "images/products/Hp2.png",
+    "tipo_productoid": 1,
+    "marca_producto_id ": 6
   },
   {
-    "nombre": "Core Purple Boots",
-    "descripcion": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "precio": 199.99,
-    "imagen_url": "images/products/boot-core1.png",
-    "tipo_productoid": 3,
-    "marca_producto_id ": 2
-  },
-  {
-    "nombre": "Angular Purple Boots",
-    "descripcion": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "precio": 150,
-    "imagen_url": "images/products/boot-ang2.png",
-    "tipo_productoid": 3,
-    "marca_producto_id ": 1
-  },
-  {
-    "nombre": "Angular Blue Boots",
-    "descripcion": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "precio": 180,
-    "imagen_url": "images/products/boot-ang1.png",
-    "tipo_productoid": 3,
-    "marca_producto_id ": 1
+    "nombre": "Portátil HP Pavilion 15-eg0500la",
+    "descripcion": "Incluido 1 año de garantía limitada de hardware con soporte técnico telefónico gratuito. 90 días de soporte técnico limitado para software (a partir de la fecha de compra).",
+    "precio": 1888880,
+    "imagen_url": "images/products/Hp3.png",
+    "tipo_productoid": 1,
+    "marca_producto_id ": 6
   }
 ]

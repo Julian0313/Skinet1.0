@@ -1,76 +1,76 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\boot-ang1.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-ang1.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Acer1.png",
+      "PackagePath": "staticwebassets\\images\\products\\Acer1.png"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\boot-ang2.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-ang2.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Acer2.png",
+      "PackagePath": "staticwebassets\\images\\products\\Acer2.png"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\boot-core1.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-core1.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Acer3.png",
+      "PackagePath": "staticwebassets\\images\\products\\Acer3.png"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\boot-core2.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-core2.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Asus1.png",
+      "PackagePath": "staticwebassets\\images\\products\\Asus1.png"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\boot-redis1.png",
-      "PackagePath": "staticwebassets\\images\\products\\boot-redis1.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Asus2.png",
+      "PackagePath": "staticwebassets\\images\\products\\Asus2.png"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\glove-code1.png",
-      "PackagePath": "staticwebassets\\images\\products\\glove-code1.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Asus3.png",
+      "PackagePath": "staticwebassets\\images\\products\\Asus3.png"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\glove-code2.png",
-      "PackagePath": "staticwebassets\\images\\products\\glove-code2.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Dell1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\Dell1.jpg"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\glove-react1.png",
-      "PackagePath": "staticwebassets\\images\\products\\glove-react1.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Dell2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\Dell2.jpg"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\glove-react2.png",
-      "PackagePath": "staticwebassets\\images\\products\\glove-react2.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Dell3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\Dell3.jpg"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\hat-core1.png",
-      "PackagePath": "staticwebassets\\images\\products\\hat-core1.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Hp1.png",
+      "PackagePath": "staticwebassets\\images\\products\\Hp1.png"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\hat-react1.png",
-      "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Hp2.png",
+      "PackagePath": "staticwebassets\\images\\products\\Hp2.png"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\hat-react2.png",
-      "PackagePath": "staticwebassets\\images\\products\\hat-react2.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Hp3.png",
+      "PackagePath": "staticwebassets\\images\\products\\Hp3.png"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\sb-ang1.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Lenovo1.png",
+      "PackagePath": "staticwebassets\\images\\products\\Lenovo1.png"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\sb-ang2.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Lenovo2.png",
+      "PackagePath": "staticwebassets\\images\\products\\Lenovo2.png"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\sb-core1.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-core1.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Lenovo3.png",
+      "PackagePath": "staticwebassets\\images\\products\\Lenovo3.png"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\sb-core2.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-core2.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Mac1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\Mac1.jpg"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\sb-react1.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-react1.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Mac2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\Mac2.jpg"
     },
     {
-      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\sb-ts1.png",
-      "PackagePath": "staticwebassets\\images\\products\\sb-ts1.png"
+      "Id": "C:\\Users\\David\\Downloads\\skinet\\skinet\\api\\wwwroot\\images\\products\\Mac3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\Mac3.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
