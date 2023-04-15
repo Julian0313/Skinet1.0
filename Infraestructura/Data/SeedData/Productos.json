@@ -1,0 +1,146 @@
+[
+  {
+    "nombre": "Angular Speedster Board 2000",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "precio": 200,
+    "imagen_url": "images/products/sb-ang1.png",
+    "tipo_productoid": 1,
+    "marca_producto_id ": 1
+  },
+  {
+    "nombre": "Green Angular Board 3000",
+    "descripcion": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "precio": 150,
+    "imagen_url": "images/products/sb-ang2.png",
+    "tipo_productoid": 1,
+    "marca_producto_id ": 1
+  },
+  {
+    "nombre": "Core Board Speed Rush 3",
+    "descripcion": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "precio": 180,
+    "imagen_url": "images/products/sb-core1.png",
+    "tipo_productoid": 1,
+    "marca_producto_id ": 2
+  },
+  {
+    "nombre": "Net Core Super Board",
+    "descripcion": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "precio": 300,
+    "imagen_url": "images/products/sb-core2.png",
+    "tipo_productoid": 1,
+    "marca_producto_id ": 2
+  },
+  {
+    "nombre": "React Board Super Whizzy Fast",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "precio": 250,
+    "imagen_url": "images/products/sb-react1.png",
+    "tipo_productoid": 1,
+    "marca_producto_id ": 4
+  },
+  {
+    "nombre": "Typescript Entry Board",
+    "descripcion": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "precio": 120,
+    "imagen_url": "images/products/sb-ts1.png",
+    "tipo_productoid": 1,
+    "marca_producto_id ": 5
+  },
+  {
+    "nombre": "Core Blue Hat",
+    "descripcion": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "precio": 10,
+    "imagen_url": "images/products/hat-core1.png",
+    "tipo_productoid": 2,
+    "marca_producto_id ": 2
+  },
+  {
+    "nombre": "Green React Woolen Hat",
+    "descripcion": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "precio": 8,
+    "imagen_url": "images/products/hat-react1.png",
+    "tipo_productoid": 2,
+    "marca_producto_id ": 4
+  },
+  {
+    "nombre": "Purple React Woolen Hat",
+    "descripcion": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "precio": 15,
+    "imagen_url": "images/products/hat-react2.png",
+    "tipo_productoid": 2,
+    "marca_producto_id ": 4
+  },
+  {
+    "nombre": "Blue Code Gloves",
+    "descripcion": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "precio": 18,
+    "imagen_url": "images/products/glove-code1.png",
+    "tipo_productoid": 4,
+    "marca_producto_id ": 3
+  },
+  {
+    "nombre": "Green Code Gloves",
+    "descripcion": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "precio": 15,
+    "imagen_url": "images/products/glove-code2.png",
+    "tipo_productoid": 4,
+    "marca_producto_id ": 3
+  },
+  {
+    "nombre": "Purple React Gloves",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "precio": 16,
+    "imagen_url": "images/products/glove-react1.png",
+    "tipo_productoid": 4,
+    "marca_producto_id ": 4
+  },
+  {
+    "nombre": "Green React Gloves",
+    "descripcion": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "precio": 14,
+    "imagen_url": "images/products/glove-react2.png",
+    "tipo_productoid": 4,
+    "marca_producto_id ": 4
+  },
+  {
+    "nombre": "Redis Red Boots",
+    "descripcion": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "precio": 250,
+    "imagen_url": "images/products/boot-redis1.png",
+    "tipo_productoid": 3,
+    "marca_producto_id ": 6
+  },
+  {
+    "nombre": "Core Red Boots",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "precio": 189.99,
+    "imagen_url": "images/products/boot-core2.png",
+    "tipo_productoid": 3,
+    "marca_producto_id ": 2
+  },
+  {
+    "nombre": "Core Purple Boots",
+    "descripcion": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "precio": 199.99,
+    "imagen_url": "images/products/boot-core1.png",
+    "tipo_productoid": 3,
+    "marca_producto_id ": 2
+  },
+  {
+    "nombre": "Angular Purple Boots",
+    "descripcion": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "precio": 150,
+    "imagen_url": "images/products/boot-ang2.png",
+    "tipo_productoid": 3,
+    "marca_producto_id ": 1
+  },
+  {
+    "nombre": "Angular Blue Boots",
+    "descripcion": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "precio": 180,
+    "imagen_url": "images/products/boot-ang1.png",
+    "tipo_productoid": 3,
+    "marca_producto_id ": 1
+  }
+]

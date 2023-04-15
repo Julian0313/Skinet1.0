@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t8Yec4AYUhGmk5a1MvJWxQ5zIE+zAHmo9vgeMo7xsqmRGLL+ls9rISgN/yYe57Tcy8GFQGRVGvAVn9WWGklWqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David\\Downloads\\skinet\\skinet\\Nucleo\\Nucleo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
